@@ -1,6 +1,16 @@
 # <img src="readme-res/stalker.gif" width="44" height="44" /> Welcome!
 
-### 
+*   🌍  Karlsruhe, Germany
+*   ✉️  Contact: [tosoxdev@null.com](mailto:tosoxdev@null.com)
+*   🚀  Currently working on: [rpc4stalker](http://github.com/TosoxDev/rpc4stalker)
+*   🧠  Learning: Java
+
+### 📚 Languages
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="readme-res/cplusplus.svg" height="40" />](https://www.cplusplus.com) &nbsp;
+[<img src="readme-res/java.svg" height="40" />](https://www.java.com) &nbsp;
+[<img src="readme-res/python.svg" height="40" />](https://www.python.org/) &nbsp;
 
 ### 📊 Stats
 
@@ -16,7 +26,7 @@
 <div align="center">
 
 [<img src="readme-res/reddit.png" height="40" />](https://www.reddit.com/user/Tosox_) &nbsp;
-[<img src="readme-res/discord.png" height="40" />](https://discordapp.com/users/457435840168329217) &nbsp;
-[<img src="readme-res/paypal.png" height="40" />](https://paypal.me/TosoxDev) &nbsp;
+[<img src="readme-res/discord.png" height="40" />](https://www.discordapp.com/users/457435840168329217) &nbsp;
+[<img src="readme-res/paypal.png" height="40" />](https://www.paypal.me/TosoxDev) &nbsp;
 
 </div>
