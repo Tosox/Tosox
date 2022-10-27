@@ -15,8 +15,8 @@
 
 <div align="center">
 
-[<img src="readme-res/discord.png" height="40" />](https://discordapp.com/users/457435840168329217) &nbsp;
 [<img src="readme-res/reddit.png" height="40" />](https://www.reddit.com/user/Tosox_) &nbsp;
+[<img src="readme-res/discord.png" height="40" />](https://discordapp.com/users/457435840168329217) &nbsp;
 [<img src="readme-res/paypal.png" height="40" />](https://paypal.me/TosoxDev) &nbsp;
 
 </div>
