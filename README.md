@@ -1,4 +1,4 @@
-# <img src="https://github.com/TosoxDev/TosoxDev/blob/master/stalker.gif" width="44" height="44" /> Welcome!
+# <img src="readme-res/stalker.gif" width="44" height="44" /> Welcome!
 
 ### 
 
