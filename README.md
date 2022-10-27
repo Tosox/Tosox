@@ -1,7 +1,7 @@
 # <img src="readme-res/stalker.gif" width="44" height="44" /> Welcome!
 
 *   🌍  Karlsruhe, Germany
-*   ✉️  Contact: [tosoxdev@null.com](mailto:tosoxdev@null.com)
+*   ✉️  Contact: [tosoxdev@gmail.com](mailto:tosoxdev@gmail.com)
 *   🚀  Currently working on: [rpc4stalker](http://github.com/TosoxDev/rpc4stalker)
 *   🧠  Learning: Java
 
