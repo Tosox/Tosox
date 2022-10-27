@@ -9,7 +9,7 @@
 
 ### 🏢 Orgranizations
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img title="DLYT" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/82230888?v=4&fit=cover" width="50"/>](https://github.com/DLYT-Dev) &nbsp;
 [<img title="EG Inf" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/103047088?v=4&fit=cover" width="50"/>](https://github.com/eg-kehl-inf)
 
