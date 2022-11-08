@@ -1,6 +1,8 @@
 # <img src="readme-res/stalker.gif" width="44" height="44" /> Welcome!
 
-![](https://komarev.com/ghpvc/?username=TosoxDev&color=orange)
+![](https://img.shields.io/github/stars/TosoxDev?affiliations=OWNER&label=Stars&color=purple)
+![](https://komarev.com/ghpvc/?username=TosoxDev&color=blue)
+![](https://img.shields.io/github/followers/TosoxDev?color=yellow&label=Followers)
 
 *   🌍  Karlsruhe, Germany
 *   ✉️  Contact: [tosoxdev@gmail.com](mailto:tosoxdev@gmail.com)
