@@ -1,8 +1,10 @@
 # <img src="readme-res/stalker.gif" width="44" height="44" /> Welcome!
 
+![](https://komarev.com/ghpvc/?username=TosoxDev&color=orange)
+
 *   🌍  Karlsruhe, Germany
 *   ✉️  Contact: [tosoxdev@gmail.com](mailto:tosoxdev@gmail.com)
-*   🚀  Currently working on: [rpc4stalker](http://github.com/TosoxDev/rpc4stalker)
+*   🚀  Currently working on: [Destiny.ut](http://github.com/TosoxDev/Destiny.ut)
 *   🧠  Learning: Java
 
 ### 📚 Languages
@@ -14,8 +16,8 @@
 
 ### 📊 Stats
 
-[![TosoxDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TosoxDev&show_icons=true&theme=dark&bg_color=ffffff00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosoxDev&theme=dark&bg_color=ffffff00&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=TosoxDev&show_icons=true&theme=dark&bg_color=ffffff00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=TosoxDev&theme=dark&bg_color=ffffff00&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏢 Orgranizations
 
