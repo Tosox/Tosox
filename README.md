@@ -34,3 +34,9 @@
 [<img src="readme-res/paypal.png" height="40" />](https://www.paypal.me/TosoxDev) &nbsp;
 
 </div>
+
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tosox)
+
+</div>
