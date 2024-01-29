@@ -18,7 +18,7 @@
 
 ### 📊 Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=Tosox&show_icons=true&theme=dark&bg_color=ffffff00&hide_border=true&custom_title=GitHub+Stats&rank_icon=github&include_all_commits=true&line_height=20)](https://github.com/Tosox#js-contribution-activity)
+[![](https://github-readme-stats.vercel.app/api?username=Tosox&show_icons=true&theme=dark&bg_color=ffffff00&hide_border=true&custom_title=GitHub+Stats&rank_icon=github&include_all_commits=false&line_height=20)](https://github.com/Tosox#js-contribution-activity)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosox&theme=dark&bg_color=ffffff00&hide_border=true&layout=compact)](https://github.com/Tosox#js-contribution-activity)
 
 ### 🏢 Organizations
@@ -37,3 +37,8 @@
 
 ### 🎧 Currently vibing to
 [![](https://spotify-github-profile.vercel.app/api/view?uid=1pndz5tpetbsk8g241epz92ws&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ed0ce6&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1pndz5tpetbsk8g241epz92ws&redirect=true)
+
+### 🐍 Snek
+
+[![](https://raw.githubusercontent.com/Tosox/Tosox/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/Tosox#js-contribution-activity)
+[![github contribution grid snake animation](https://raw.githubusercontent.com/Tosox/Tosox/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Tosox#js-contribution-activity)
