@@ -1,14 +1,12 @@
-# <img src="https://github.com/Tosox/Tosox/blob/resources/stalker.gif?raw=true" alt="S.T.A.L.K.E.R." width="44" height="44" /> Welcome!
-
-[![](https://img.shields.io/github/stars/Tosox?affiliations=OWNER&label=Stars&color=purple)](https://github.com/Tosox?tab=repositories)
-[![](https://img.shields.io/github/followers/Tosox?color=yellow&label=Followers)](https://github.com/Tosox?tab=followers)
-[![](https://komarev.com/ghpvc/?username=Tosox&color=blue)](https://github.com/Tosox)
+# Welcome! 👋
 
 *   ✉️  Contact: [tosoxdev@gmail.com](mailto:tosoxdev@gmail.com)
 *   🚀  Currently working on: [Animations and Visuals Overhaul](https://github.com/Tosox/Animations-and-Visuals-Overhaul)
 *   🧠  Learning: Lua
 
 ### 📚 Skills
+
+<img align="right" alt="S.T.A.L.K.E.R." width="180" src="https://github.com/Tosox/Tosox/blob/resources/stalker.gif?raw=true" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![](https://skillicons.dev/icons?i=java,cpp,py,lua)](https://github.com/Tosox?tab=repositories)
