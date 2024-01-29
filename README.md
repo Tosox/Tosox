@@ -21,7 +21,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=Tosox&show_icons=true&theme=dark&bg_color=ffffff00&hide_border=true)](https://github.com/Tosox#js-contribution-activity)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosox&theme=dark&bg_color=ffffff00&hide_border=true&layout=compact)](https://github.com/Tosox#js-contribution-activity)
 
-### 🏢 Orgranizations
+### 🏢 Organizations
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img title="DLYT" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/82230888?v=4&fit=cover" width="50" />](https://github.com/DLYT-Dev) &nbsp;
