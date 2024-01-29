@@ -4,9 +4,9 @@
 *   🚀  Currently working on: [Animations and Visuals Overhaul](https://github.com/Tosox/Animations-and-Visuals-Overhaul)
 *   🧠  Learning: Lua
 
-### 📚 Skills
+<img align="right" alt="S.T.A.L.K.E.R." width="200" src="https://github.com/Tosox/Tosox/blob/resources/stalker.gif?raw=true" />
 
-<img align="right" alt="S.T.A.L.K.E.R." width="180" src="https://github.com/Tosox/Tosox/blob/resources/stalker.gif?raw=true" />
+### 📚 Skills
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![](https://skillicons.dev/icons?i=java,cpp,py,lua)](https://github.com/Tosox?tab=repositories)
