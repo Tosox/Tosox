@@ -40,5 +40,4 @@
 
 ### 🐍 Snek
 
-[![](https://raw.githubusercontent.com/Tosox/Tosox/resources/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/Tosox#js-contribution-activity)
-[![](https://raw.githubusercontent.com/Tosox/Tosox/resources/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Tosox#js-contribution-activity)
+[![](https://raw.githubusercontent.com/Tosox/Tosox/resources/github-contribution-grid-snake-dark.svg)](https://github.com/Tosox#js-contribution-activity)
