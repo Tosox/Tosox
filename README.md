@@ -20,6 +20,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=Tosox&show_icons=true&theme=dark&bg_color=ffffff00&hide_border=true)](https://github.com/Tosox#js-contribution-activity)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosox&theme=dark&bg_color=ffffff00&hide_border=true&layout=compact)](https://github.com/Tosox#js-contribution-activity)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=Tosox&theme=react-dark&hide_border=true&radius=5)](https://github.com/Tosox#js-contribution-activity)
 
 ### 🏢 Organizations
 
