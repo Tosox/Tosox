@@ -1,4 +1,4 @@
-# <img src="https://github.com/Tosox/Tosox/blob/resources/stalker.gif" width="44" height="44" /> Welcome!
+# <img src="https://github.com/Tosox/Tosox/blob/resources/stalker.gif" alt="S.T.A.L.K.E.R." width="44" height="44" /> Welcome!
 
 [![](https://img.shields.io/github/stars/Tosox?affiliations=OWNER&label=Stars&color=purple)](https://github.com/Tosox?tab=repositories)
 [![](https://img.shields.io/github/followers/Tosox?color=yellow&label=Followers)](https://github.com/Tosox?tab=followers)
@@ -10,8 +10,10 @@
 
 ### 📚 Skills
 
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![](https://skillicons.dev/icons?i=java,cpp,py,lua)](https://github.com/Tosox?tab=repositories)
 
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![](https://skillicons.dev/icons?i=idea,visualstudio,vscode,github,git)](https://github.com/Tosox?tab=repositories)
 
 ### 📊 Stats
@@ -22,11 +24,16 @@
 ### 🏢 Orgranizations
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img title="DLYT" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/82230888?v=4&fit=cover" width="50"/>](https://github.com/DLYT-Dev) &nbsp;
-[<img title="EG Inf" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/103047088?v=4&fit=cover" width="50"/>](https://github.com/eg-kehl-inf)
+[<img title="DLYT" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/82230888?v=4&fit=cover" width="50" />](https://github.com/DLYT-Dev) &nbsp;
+[<img title="EG Inf" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/103047088?v=4&fit=cover" width="50" />](https://github.com/eg-kehl-inf)
 
 <div align="center">
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tosox)
 
 </div>
+
+---
+
+### 🎧 Currently vibing to
+[![](https://spotify-github-profile.vercel.app/api/view.svg?uid=1pndz5tpetbsk8g241epz92ws&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=ed0ce6&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view.svg?uid=1pndz5tpetbsk8g241epz92ws&redirect=true)
