@@ -1,4 +1,4 @@
-# <img src="readme-res/stalker.gif" width="44" height="44" /> Welcome!
+# <img src="https://github.com/Tosox/Tosox/blob/resources/stalker.gif" width="44" height="44" /> Welcome!
 
 [![](https://img.shields.io/github/stars/Tosox?affiliations=OWNER&label=Stars&color=purple)](https://github.com/Tosox?tab=repositories)
 [![](https://img.shields.io/github/followers/Tosox?color=yellow&label=Followers)](https://github.com/Tosox?tab=followers)
