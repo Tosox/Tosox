@@ -1,13 +1,13 @@
 # <img src="readme-res/stalker.gif" width="44" height="44" /> Welcome!
 
-![](https://img.shields.io/github/stars/TosoxDev?affiliations=OWNER&label=Stars&color=purple)
-![](https://komarev.com/ghpvc/?username=TosoxDev&color=blue)
-![](https://img.shields.io/github/followers/TosoxDev?color=yellow&label=Followers)
+![](https://img.shields.io/github/stars/Tosox?affiliations=OWNER&label=Stars&color=purple)
+![](https://komarev.com/ghpvc/?username=Tosox&color=blue)
+![](https://img.shields.io/github/followers/Tosox?color=yellow&label=Followers)
 
 *   🌍  Karlsruhe, Germany
 *   ✉️  Contact: [tosoxdev@gmail.com](mailto:tosoxdev@gmail.com)
-*   🚀  Currently working on: [rpc4stalker](http://github.com/TosoxDev/rpc4stalker)
-*   🧠  Learning: Java
+*   🚀  Currently working on: [Animations and Visuals Overhaul](https://github.com/Tosox/Animations-and-Visuals-Overhaul)
+*   🧠  Learning: Lua
 
 ### 📚 Languages
 
@@ -18,8 +18,8 @@
 
 ### 📊 Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=TosoxDev&show_icons=true&theme=dark&bg_color=ffffff00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=TosoxDev&theme=dark&bg_color=ffffff00&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=Tosox&show_icons=true&theme=dark&bg_color=ffffff00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosox&theme=dark&bg_color=ffffff00&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏢 Orgranizations
 
