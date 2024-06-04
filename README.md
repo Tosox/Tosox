@@ -1,7 +1,7 @@
 # Welcome! 👋
 
 *   ✉️  Contact: [tosoxdev@gmail.com](mailto:tosoxdev@gmail.com)
-*   🚀  Currently working on: [Animations and Visuals Overhaul](https://github.com/Tosox/Animations-and-Visuals-Overhaul)
+*   🚀  Currently working on: [moddb](https://github.com/Tosox/moddb)
 *   🧠  Learning: Lua
 
 <img align="right" alt="S.T.A.L.K.E.R." width="200" src="https://github.com/Tosox/Tosox/blob/resources/stalker.gif?raw=true" />
