@@ -1,7 +1,7 @@
 # Welcome! 👋
 
 *   ✉️  Contact: [tosoxdev@gmail.com](mailto:tosoxdev@gmail.com)
-*   🚀  Currently working on: [moddb](https://github.com/Tosox/moddb)
+*   🚀  Currently working on: [rpc4games](https://github.com/rpc4games/rpc4games)
 *   🧠  Learning: Lua
 
 <img align="right" alt="S.T.A.L.K.E.R." width="200" src="https://github.com/Tosox/Tosox/blob/resources/stalker.gif?raw=true" />
@@ -23,7 +23,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img title="DLYT" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/82230888?v=4&fit=cover" width="50" />](https://github.com/DLYT-Dev) &nbsp;
-[<img title="EG Inf" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/103047088?v=4&fit=cover" width="50" />](https://github.com/eg-kehl-inf)
+[<img title="EG Inf" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/103047088?v=4&fit=cover" width="50" />](https://github.com/eg-kehl-inf)&nbsp;
+[<img title="EG Inf" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/184363865?v=4&fit=cover" width="50" />](https://github.com/rpc4games)
 
 <div align="center">
 
