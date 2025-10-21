@@ -1,8 +1,8 @@
 # Welcome! 👋
 
 *   ✉️  Contact: [tosoxdev@gmail.com](mailto:tosoxdev@gmail.com)
-*   🚀  Currently working on: [rpc4games](https://github.com/rpc4games/rpc4games)
-*   🧠  Learning: Lua
+*   🚀  Currently working on: [ZoneRelay](https://github.com/Tosox/ZoneRelay)
+*   🧠  Currently learning: Kotlin
 
 <img align="right" alt="S.T.A.L.K.E.R." width="200" src="https://github.com/Tosox/Tosox/blob/resources/stalker.gif?raw=true" />
 
