@@ -4,7 +4,7 @@
 *   🚀  Currently working on: [ZoneRelay](https://github.com/Tosox/ZoneRelay)
 *   🧠  Currently learning: Kotlin
 
-<img align="right" alt="S.T.A.L.K.E.R." width="200" src="https://github.com/Tosox/Tosox/blob/resources/stalker.gif?raw=true" />
+<img align="right" alt="S.T.A.L.K.E.R." width="200" src="https://github.com/Tosox/Tosox/blob/master/assets/stalker.gif?raw=true" />
 
 ### 📚 Skills
 
