@@ -9,15 +9,15 @@
 ### 📚 Skills
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![](https://skillicons.dev/icons?i=java,cpp,py,lua)](https://github.com/Tosox?tab=repositories)
+[![](https://skillicons.dev/icons?i=java,cpp,py,lua,cs)](https://github.com/Tosox?tab=repositories)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![](https://skillicons.dev/icons?i=idea,visualstudio,vscode,github,git)](https://github.com/Tosox?tab=repositories)
+[![](https://skillicons.dev/icons?i=idea,visualstudio,vscode,postman,maven,github,git)](https://github.com/Tosox?tab=repositories)
 
 ### 📊 Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=Tosox&show_icons=true&theme=dark&bg_color=ffffff00&hide_border=true&custom_title=GitHub+Stats&rank_icon=github&include_all_commits=false&line_height=20)](https://github.com/Tosox#js-contribution-activity)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosox&theme=dark&bg_color=ffffff00&hide_border=true&layout=compact&exclude_repo=STALKER-Anomaly-gamedata)](https://github.com/Tosox#js-contribution-activity)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosox&theme=dark&bg_color=ffffff00&hide_border=true&layout=compact&exclude_repo=STALKER-Anomaly-gamedata,xray-monolith)](https://github.com/Tosox#js-contribution-activity)
 
 ### 🏢 Organizations
 
