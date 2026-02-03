@@ -1,30 +1,29 @@
 # Welcome! 👋
 
-*   ✉️  Contact: [tosoxdev@gmail.com](mailto:tosoxdev@gmail.com)
-*   🚀  Currently working on: [ZoneRelay](https://github.com/Tosox/ZoneRelay)
-*   🧠  Currently learning: Kotlin
+> ✉️ Contact: [tosoxdev@gmail.com](mailto:tosoxdev@gmail.com)
 
 <img align="right" alt="S.T.A.L.K.E.R." width="200" src="https://github.com/Tosox/Tosox/blob/master/assets/stalker.gif?raw=true" />
 
 ### 📚 Skills
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![](https://skillicons.dev/icons?i=java,cpp,py,lua,cs)](https://github.com/Tosox?tab=repositories)
+[![](https://skillicons.dev/icons?i=java,py,lua,cpp,cs)](https://github.com/Tosox?tab=repositories)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![](https://skillicons.dev/icons?i=idea,visualstudio,vscode,postman,maven,github,git)](https://github.com/Tosox?tab=repositories)
+[![](https://skillicons.dev/icons?i=maven,idea,visualstudio,vscode,github,git)](https://github.com/Tosox?tab=repositories)
+
+### 💡 Familiar with
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![](https://skillicons.dev/icons?i=kotlin,bash,js,html,css)](https://github.com/Tosox?tab=repositories)
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![](https://skillicons.dev/icons?i=androidstudio,postgres,raspberrypi,arduino,postman,docker)](https://github.com/Tosox?tab=repositories)
 
 ### 📊 Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=Tosox&show_icons=true&theme=dark&bg_color=ffffff00&hide_border=true&custom_title=GitHub+Stats&rank_icon=github&include_all_commits=false&line_height=20)](https://github.com/Tosox#js-contribution-activity)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosox&theme=dark&bg_color=ffffff00&hide_border=true&layout=compact&exclude_repo=STALKER-Anomaly-gamedata,xray-monolith)](https://github.com/Tosox#js-contribution-activity)
-
-### 🏢 Organizations
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img title="DLYT" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/82230888?v=4&fit=cover" width="50" />](https://github.com/DLYT-Dev) &nbsp;
-[<img title="EG-Kehl Inf" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/103047088?v=4&fit=cover" width="50" />](https://github.com/eg-kehl-inf)&nbsp;
-[<img title="rpc4games" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/184363865?v=4&fit=cover" width="50" />](https://github.com/rpc4games)
 
 <div align="center">
 
