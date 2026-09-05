@@ -22,8 +22,8 @@
 
 ### 📊 Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=Tosox&show_icons=true&theme=dark&bg_color=ffffff00&hide_border=true&custom_title=GitHub+Stats&rank_icon=github&include_all_commits=false&line_height=20)](https://github.com/Tosox#js-contribution-activity)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosox&theme=dark&bg_color=ffffff00&hide_border=true&layout=compact&exclude_repo=STALKER-Anomaly-gamedata,xray-monolith)](https://github.com/Tosox#js-contribution-activity)
+[![](https://github-stats-extended.vercel.app/api?username=Tosox&show_icons=true&theme=dark&bg_color=ffffff00&hide_border=true&custom_title=GitHub+Stats&rank_icon=github&include_all_commits=false&line_height=20)](https://github.com/Tosox#js-contribution-activity)
+[![](https://github-stats-extended.vercel.app/api/top-langs/?username=Tosox&theme=dark&bg_color=ffffff00&hide_border=true&layout=compact&exclude_repo=STALKER-Anomaly-gamedata,xray-monolith)](https://github.com/Tosox#js-contribution-activity)
 
 <div align="center">
 
